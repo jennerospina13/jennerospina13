@@ -19,7 +19,7 @@ Este proyecto fue desarrollado con:
 - Validar que el campo de entrada no esté vacío y tampoco admite numeros.
 - Visualizar la lista de nombres ingresados validando que no esten repetidos.
 - Realizar un sorteo aleatorio y mostrar el amigo secreto seleccionado.
-- Se habilita boton de Reiniciar.
+- Se habilita boton de Reiniciar al ingresar al menos un amigo, sin embargo el boton sortear funciona con al menos dos amigos.
 
 ## 📂 Estructura del proyecto
 ```
@@ -34,7 +34,7 @@ Este proyecto fue desarrollado con:
 1. Abrir el archivo `.html` en un navegador web y jugar.
  
 ## 🌍 Demo en vivo  
-¡Prueba la aplicación aquí! 👉 [Amigo Secreto](https://)
+¡Prueba la aplicación aquí! 👉 [Amigo Secreto](https://jennerospina13.github.io/Challenge_Amigo_Secreto/)
 
 ## 📖 Cómo contribuir
 Si tienes ideas para mejorar el proyecto, siéntete libre de hacer un **fork** y enviar un **pull request**. 🚀

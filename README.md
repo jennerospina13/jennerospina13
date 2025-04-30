@@ -4,44 +4,30 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-Estudiante del proyecto **Amigo Secreto**, un desafío de lógica de programación donde creé una aplicación que permite al usuario ingresar nombres de amigos y luego realizar un sorteo aleatorio.
+<ul align="left">
+    <summary><h1 style="display: inline-block">¡Hola! 👋 Soy Jenner Ospina </h1></summary>
+</ul>
 
-## 🚀 Tecnologías utilizadas
+Estudiante de Desarrollo de Software, Participante de la octava temporada de Alura Latam Oracle Next Education F2 T8 con grandes expectactivas y aprendizaje continuo.
 
-Este proyecto fue desarrollado con:
-- **HTML5** → Estructura de la aplicación.
-- **CSS3** → Estilos y diseño visual.
-- **JavaScript** → Lógica de funcionamiento.
-- **Git & GitHub** → Control de versiones y despliegue del código.
+## 🛠️ Mis habilidades
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes de programación
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-## 📌 Funcionalidades
-- Agregar nombres a la lista de amigos.
-- Validar que el campo de entrada no esté vacío y tampoco admite numeros.
-- Visualizar la lista de nombres ingresados validando que no esten repetidos.
-- Realizar un sorteo aleatorio y mostrar el amigo secreto seleccionado.
-- Se habilita boton de Reiniciar al ingresar al menos un amigo, sin embargo el boton sortear funciona con al menos dos amigos.
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Herramientas y software
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-## 📂 Estructura del proyecto
-```
-📁 amigo-secreto/
-│── 📄 index.html → Estructura principal del proyecto
-│── 🎨 style.css → Estilos y diseño visual
-│── 📜 app.js → Lógica de la aplicación
-│── 📂 assets/ → Imágenes y recursos del proyecto
-```
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Sistemas operativos
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-## 🔧 Cómo ejecutar el proyecto
-1. Abrir el archivo `.html` en un navegador web y jugar.
- 
-## 🌍 Demo en vivo  
-¡Prueba la aplicación aquí! 👉 [Amigo Secreto](https://jennerospina13.github.io/Challenge_Amigo_Secreto/)
+## 📌 Laboro Actualmente
+En Sicte SAS un aliado integral de claro, desempeñandome como Gestor de Ruta, en donde participo activamente en los proyectos a desarrollar a nivel regíonal de la red FTTH, así estoy realizando seguimiento constantemente a los proyectos desde que se crean, se planifican, se ejecutan y por último se facturan para el aliado.
 
-## 📖 Cómo contribuir
-Si tienes ideas para mejorar el proyecto, siéntete libre de hacer un **fork** y enviar un **pull request**. 🚀
 
-## 📬 Contacto
-Si quieres compartir comentarios o conectar conmigo, puedes encontrarme en:
-- **GitHub**: https://github.com/jennerospina13
-- **LinkedIn**: https://www.linkedin.com/in/jenner-ospina/
-
-¡Gracias por visitar este repositorio! 😊
+¡Gracias por visitar este perfil! 😊
